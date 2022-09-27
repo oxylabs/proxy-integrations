@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-proxy",
+  "version": "1.0.0",
+  "description": "- [Requirements](#requirements) - [Integrating Datacenter Proxies](#integrating-datacenter-proxies) - [Integrating Residential Proxies](#integrating-residential-proxies) ## Requirements",
+  "main": "_single proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}

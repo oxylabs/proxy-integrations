@@ -1,0 +1,23 @@
+{
+  "name": "playwright-proxy",
+  "version": "1.0.0",
+  "description": "- [Requirements](#requirements) - [Integrating Datacenter Proxies](#integrating-datacenter-proxies) - [Integrating Residential Proxies](#integrating-residential-proxies) ## Requirements",
+  "main": "_single proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxylabs/playwright-proxy-integration-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oxylabs/playwright-proxy-integration-js/issues"
+  },
+  "homepage": "https://github.com/oxylabs/playwright-proxy-integration-js#readme",
+  "dependencies": {
+    "playwright": "^1.17.2"
+  }
+}
