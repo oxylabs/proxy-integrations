@@ -37,7 +37,7 @@ of your Oxylabs Residential Proxy access credentials.
 
 ## Testing Proxy Connection
 
-To see if the proxy is working, try visiting [ip.oxylabs.io](https://ip.oxylabs.io). <br>If everything is working correctly, 
+To see if the proxy is working, try visiting [ip.oxylabs.io/location](https://ip.oxylabs.io/location). <br>If everything is working correctly, 
 it will return an IP address of a proxy that you're using.
 
 ## Locating an HTML Form
