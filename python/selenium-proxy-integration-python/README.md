@@ -44,8 +44,8 @@ your Oxylabs account.
 
 ## Testing Proxy Connection
 
-To see if the proxy is working, try visiting [ip.oxylabs.io](https://ip.oxylabs.io) 
-If everything is working correctly, it will return an IP address of a proxy that you're using.
+To see if the proxy is working, try visiting [ip.oxylabs.io/location](https://ip.oxylabs.io/location) 
+If everything is working correctly, it will return an IP address and location data of a proxy that you're using.
 
 ## Full Code
 ```python
