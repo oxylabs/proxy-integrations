@@ -31,11 +31,11 @@ const { chromium } = require('playwright');
         // Create a new page
         const page = await browser.newPage();
 
-        // This page simply returns the IP address
-        await page.goto('https://ip.oxylabs.io/');
+        // This page returns the IP address and location details
+        await page.goto('https://ip.oxylabs.io/location');
 
         // Print the response from the page
-        // This will print the IP address of the proxy 
+        // This will print the location details of the proxy 
         console.log(await page.textContent("*"));
     } catch (e) {
         // print the error to the console
