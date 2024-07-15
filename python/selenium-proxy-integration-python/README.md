@@ -15,6 +15,14 @@ You can do it using `pip` command:
 pip install selenium-wire
 ```
 
+NOTE: Selenium Wire is no longer maintained, so might not work with future versions
+of Selenium, tested working combination: Selenium 4.9.1 and Selenium Wire 5.1.0.
+
+To ensure the versions mentioned above:
+```bash
+pip install selenium==4.9.1 selenium-wire==5.1.0
+```
+
 Another recommended package is `webdriver-manager`. It simplifies the management
 of binary drivers for different browsers, so you don't need to manually download
 a new version of a web driver after each update. Visit the 
