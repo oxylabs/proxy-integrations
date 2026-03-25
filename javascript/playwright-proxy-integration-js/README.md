@@ -85,7 +85,7 @@ const launchOptions = {
     };
 ```
 
-The additional benefit of using lauchOptions variable is that other information such as `headless` can be supplied to the `launch` method.:
+The additional benefit of using `lauchOptions` variable is that other information such as `headless` can be supplied to the `launch` method.:
 
 After creating the `launchOptions` variable, create a `playwright` instance and launch the browser.
 
